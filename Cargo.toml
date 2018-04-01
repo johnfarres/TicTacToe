@@ -1,0 +1,7 @@
+[package]
+name = "tic_tac_toe"
+version = "0.1.0"
+authors = ["John Farres <johnfarres@gmail.com>"]
+
+[dependencies]
+text_io = "0.1.7"
